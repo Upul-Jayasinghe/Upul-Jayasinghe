@@ -4,9 +4,11 @@
 <h1 align="center">Hi there👋, Upul here</h1>
 <h3 align="center">A passionate Lecturer and Researcher</h3>
 
+<img align="right" alt="Coding" width="300" src="https://www.kibrispdr.org/data/1752/animasi-guru-png-7.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upul-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="upul-jayasinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upul-jayasinghe" alt="upul-jayasinghe" /></a> </p>
+
 
 - 🌱 I’m currently working on **Computer Vision, Machine Learning, Networking**
 
