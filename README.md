@@ -2,14 +2,12 @@
 <head>
 <meta name="google-site-verification" content="mDhQll_Bwq9CREwBsmtGz5_rmDwZ0MH3t_G6MBJAgrc" />
 </head>
-<h1 align="center">Hi there👋, Upul here</h1>
+<h1 align="center">Hi there👋, Upul here </h1>
 <h3 align="center">A passionate Lecturer and Researcher</h3>
-
+<img align="right" alt="Coding" width="100" src="https://i.postimg.cc/W1136vL5/link-in-bio-qrcode-upul.png">
 <img align="right" alt="Coding" width="300" src="https://www.kibrispdr.org/data/1752/animasi-guru-png-7.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upul-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="upul-jayasinghe" /> </p>
-
-
+<p align="right">https://bit.ly/m/upul</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=upul-jayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="upul-jayasinghe" />  </p>
 
 - 🌱 I’m currently working on **Computer Vision, Machine Learning, Networking**
 
